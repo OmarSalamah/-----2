@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(79, 109, 109); /*  background color */
+   }
+
+
+
+    h1{
+         color: aliceblue;
+            text-align: center;
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            border-style: solid;
+            border-width:medium;
+            border-radius: 10px ;
+    }
+
+     h2{
+        color: aliceblue;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        border-style: solid;
+        border-width:medium;
+        border-radius: 10px ;
+    }
+      
+    /* p{
+       color: aliceblue;
+         text-align: center;
+         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+    }*/
+    
+
+     h3{
+      /*  color: aliceblue;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       /* border-style: solid;
+        border-width:medium;*/
+
+background-color: brown;
+width: 400px;
+border: 15px solid pink;
+padding: 50px;
+margin: 20px; ;
+
+
+    }
+      
+
+     li{
+        color: aliceblue;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+     
+
+     h4{
+        color: aliceblue;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+    }
+      
+
+ table{
+    color: aliceblue;
+    
+ }
+
+ h5{
+    color: aliceblue;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+ 
+    a{
+        color: purple;
+
+    }
+
+    a:hover{
+        color: blue;
+    }
+    
+    h6{
+        color: aliceblue;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+
+    p{
+        color: aliceblue;
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+
+    b1{
+        background-color: rgb(12, 1, 1);
+        color: aliceblue;
+        position: sticky;
+        bottom: 0px;
+    }
